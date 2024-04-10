@@ -1,0 +1,17 @@
+/* .bargraph{
+    display: flex;
+    justify-content: center;
+
+}
+.linegraph{
+    display: flex;
+    justify-content: center;
+} */
+.topbar{
+    margin: 5%;
+    padding: 2%;
+}
+.error{
+    color: red;
+    margin: 3%;
+}
